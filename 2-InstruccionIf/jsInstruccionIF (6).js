@@ -9,7 +9,7 @@ var edad;
     if(edad >=18){
         alert("Es mayor de edad");
     }
-    else if (edad >=13 && edad <=17){
+    else if (edad >=13 && edad <=17){ //o edad <= 17 tambien sirve
         alert("Es adolescente");
     }
     else{
