@@ -10,22 +10,22 @@ mes = document.getElementById("mes").value;
         case "Marzo":
         case "Abril":
         case "Mayo":
-        case "Junio":{
+        case "Junio":
             alert("Falta para el invierno");
             break;
-        }
+        
         case "Julio":
-        case "Agosto":{
+        case "Agosto":
             alert("Abrigate que hace frio");
             break;
-        }
+        
         case "Septiembre":
         case "Octubre":
         case "Noviembre":
-        case "Diciembre":{
-            alert("Ya paso el frio, ahora calor");
+        case "Diciembre":
+            alert("Ya paso el frio, ahora calor"); // o default: alert("") y ya me agarra los meses sin condiciones.
             break;
-        }
+        
         
 
     }

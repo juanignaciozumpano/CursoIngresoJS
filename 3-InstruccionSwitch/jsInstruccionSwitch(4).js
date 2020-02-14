@@ -11,21 +11,21 @@ mes = document.getElementById("mes").value;
             case "Julio":
             case "Agosto":
             case "Octubre":
-            case "Diciembre":{
+            case "Diciembre":
                 alert("Este mes tiene 31 dias");
                 break;
-            }
+            
             case "Abril":
             case "Junio":
             case "Septiembre":
-            case "Noviembre":{
+            case "Noviembre":
                 alert("Este mes tiene 30 dias");
                 break;
-            }
-            case "Febrero":{
+            
+            case "Febrero":
                 alert("Este mes tiene 28 dias");
                 break;
-            }
+            
 
     }
 	
