@@ -7,9 +7,7 @@ var clave;
         clave = prompt("Clave incorrecta. Reingrese clave");
     }
 
-    alert("La clave es correcta");
-
-
+   alert("La clave es correcta");
 
 
 

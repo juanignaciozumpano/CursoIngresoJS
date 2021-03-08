@@ -2,7 +2,7 @@ function mostrar()
 {
 
 	var flag=0;
-	var numero = 5;
+	var numero;
 	var numMax;
 	var numMin;
 	var respuesta;

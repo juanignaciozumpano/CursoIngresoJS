@@ -1,4 +1,4 @@
-function mostrar()
+-function mostrar()
 {
 	
 	var numero;

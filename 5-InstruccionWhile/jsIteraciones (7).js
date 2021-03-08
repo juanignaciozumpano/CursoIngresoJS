@@ -1,6 +1,6 @@
-function mostrar()
+function mostar()
 {
-	var numero;
+	var numero;  
 	var contador=0;
 	var acumulador=0;
 	var respuesta;
